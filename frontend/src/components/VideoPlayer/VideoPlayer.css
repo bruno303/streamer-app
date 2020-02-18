@@ -1,0 +1,14 @@
+.video-player-container {
+    width: 95%;
+    margin: 0px auto;
+    height: calc(100vh - 60px);
+}
+
+.video-player-container:focus, .video-player-container > .video-player:focus {
+    outline: 0px;
+}
+
+.video-player-container video.video-player {
+    width: 100%;
+    height: 100%;
+}
