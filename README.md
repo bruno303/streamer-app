@@ -1,2 +1,2 @@
 # streamer-app
-Making a streaming app in Node.js + Reactjs
+Streaming app in Node.js + Reactjs
